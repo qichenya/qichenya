@@ -10,10 +10,8 @@
 ---
 
 ## **我的技能**  
-### **开发运维与系统管理**  
- **系统技能**:  
 - **Linux**: 能够完成基础例行维护及操作  
-- **MySQL**: 能够完成基本的表设计和数据查询  
+- **MySQL**: 能够完成基本的表设计和数据查询
 
 ---
 
@@ -24,7 +22,9 @@
 -  **Discord**: shizuku_qichen 
 -  **Telegram**: [qichenya](https://t.me/qichenya)  
 -  **X**: [qichen1528770](https://x.com/qichen1528770)  
--  **YouTube**: [cn-qichen](https://www.youtube.com/@cn-qichen)  
+-  **YouTube**: [cn-qichen](https://www.youtube.com/@cn-qichen)
+-  **WeChat**：Zero_qichen_studio
+
 ---
 
 ## Github统计数据
