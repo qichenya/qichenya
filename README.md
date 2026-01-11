@@ -1,11 +1,13 @@
 # **以下是喵喵的自述！**  
 **ヾ(≧▽≦\*)o**  
 
----
-
 ## **关于我**  
- 我是一名对技术充满热情的开发者，别看我为什么知道这些，都是被别人骂出来的QWQ
+ 一只笨笨的小猫娘，除了简单的运维什么都不会QWQ
 
+
+
+## **我的人设**
+![七辰的人设图片](./character_setting.png)
 ---
 
 ## **我的技能**  
@@ -18,18 +20,10 @@
 -  **Email**: [qichenawa@outlook.com](mailto:qichenawa@outlook.com)  
 -  **QQ**: 3654280169  
 -  **GitHub**: [qichenya](https://github.com/qichenya) 
--  **WeChat**：Zero_qichen_studio
+-  **WeChat**：init_studio
+-  **telegram**: @qichen_sama
 
 ---
 
 ## Github统计数据
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qichenya)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-##  **我喜欢的游戏**  
-- [**osu!**](https://osu.ppy.sh/)  
-  节奏类游戏，充满挑战与乐趣，每次点按都是节奏的律动！
-
-- [**Alice in Cradle**](https://aliceincradle.com/)  
-  一款幻想风格的冒险游戏，探索未知的世界，享受战斗与剧情的融合！
+[![统计图](https://github-readme-stats.vercel.app/api?username=qichenya)](https://github.com/anuraghazra/github-readme-stats)
